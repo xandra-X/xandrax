@@ -5,7 +5,7 @@
 
 🎨 Passionate about designing beautiful interfaces and turning them into responsive, clean code.  
 💻 Specialize in HTML, CSS, JavaScript, and Figma.  
-🌱 Currently learning: SQL, Tailwind CSS  
+🌱 Currently learning: SQL, ThreeJs  
 📌 Open to collaborations and creative web projects!
 
 ---
