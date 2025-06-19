@@ -32,9 +32,9 @@
 
 ### 📊 GitHub Stats
 
-![Khant's GitHub stats](https://github-readme-stats.vercel.app/api?username=xanshock&show_icons=true&theme=tokyonight)
+![Khant's GitHub stats](https://github-readme-stats.vercel.app/api?username=xandra-X&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xanshock&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xandra-X&layout=compact&theme=tokyonight)
 
 ---
 
