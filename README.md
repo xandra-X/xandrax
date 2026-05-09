@@ -30,6 +30,7 @@
 ## 🎨 Design & Creative Tools
 
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 
 ---
 
