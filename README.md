@@ -42,12 +42,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Xan Drax's GitHub stats](https://github-readme-stats.vercel.app/api?username=xandra-X&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xandra-X&layout=compact&theme=tokyonight)
-
 ---
 
 ### 📫 Contact Me
