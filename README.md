@@ -30,10 +30,6 @@
 ## 🎨 Design & Creative Tools
 
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
-![InDesign](https://img.shields.io/badge/-InDesign-FF3366?style=flat-square&logo=adobe-indesign&logoColor=white)
 
 ---
 
