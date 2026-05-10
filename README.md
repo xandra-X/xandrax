@@ -51,7 +51,8 @@
 
 - UI/UX Design  
 - Website Design & Development  
-- Full-Stack Web Development  
+- Full-Stack Web Development
+- Ios & Android App Development
 - AI Chatbot Development  
 - Facebook Messenger Automation  
 - Telegram Bot Automation  
