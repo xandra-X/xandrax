@@ -65,22 +65,22 @@
 
 ### 🔥 Local Brand Website
 A modern business website crafted for a local clothing brand with sleek visuals, smooth interactions, and a clean shopping-focused experience.
-🔗 https://otaku-d4ke.onrender.com/index.html
+🔗 [Otaku](https://otaku-d4ke.onrender.com/index.html)
 
 ### 🎨 Portfolio Website
 An immersive personal portfolio experience featuring fluid animations, layered transitions, and a bold futuristic visual identity.
-🔗 https://xan-draxx-portfolio.onrender.com/
+🔗 [Portfolio](https://xan-draxx-portfolio.onrender.com/)
 
 ### 🤖 Portfolio Figma Design
 A Figma concept focused on modern UI aesthetics, dynamic layouts, and high-end creative direction for digital portfolios.
-🔗 https://www.figma.com/design/rAjCwpmAJy5QgMfZARIfBr/Portfolio?node-id=0-1&t=m0XjMHSt7MaqOO0N-1
+🔗 [Figma Portfolio Design](https://www.figma.com/design/rAjCwpmAJy5QgMfZARIfBr/Portfolio?node-id=0-1&t=m0XjMHSt7MaqOO0N-1)
 
 ---
 
 ## 📫 Contact Me
 
 📧 Email: xanshock.design@gmail.com  
-📷 TikTok: [@xanshock](https://www.tiktok.com/@xanshock)
+📷 TikTok: [@chillin_drax](https://www.tiktok.com/@chillin_drax)
 
 ---
 
