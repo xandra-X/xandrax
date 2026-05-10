@@ -32,6 +32,8 @@
 
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Spline](https://img.shields.io/badge/-Spline-FF6B6B?style=flat-square&logo=spline&logoColor=white)
 
 ---
 
