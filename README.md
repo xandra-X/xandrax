@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/xandra-X/xandra-X/main/profile.jpg](https://github.com/xandra-X/xandrax/blob/main/xan.jpg)"
+  <img src="[https://github.com/xandra-X/xandrax/blob/main/xan.jpg](https://github.com/xandra-X/xandrax/blob/main/xan.jpg)"
        width="200"
        alt="Xan Drax">
 </p>
