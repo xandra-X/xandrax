@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/xandra-X/xandrax/main/xan.jpg"
-       width="200"
+       width="200" height="200"
        style="border-radius:50%;">
 </p>
 <h1 align="center">Hi 👋, I'm Xan Drax</h1>
