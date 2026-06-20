@@ -74,10 +74,12 @@ A modern business website crafted for a local clothing brand with sleek visuals,
 
 ### 🎨 Portfolio Website
 An immersive personal portfolio experience featuring fluid animations, layered transitions, and a bold futuristic visual identity.
+
 🔗 [Portfolio](https://xan-draxx-portfolio.onrender.com/)
 
 ### 🤖 Portfolio Figma Design
 A Figma concept focused on modern UI aesthetics, dynamic layouts, and high-end creative direction for digital portfolios.
+
 🔗 [Figma Portfolio Design](https://www.figma.com/design/rAjCwpmAJy5QgMfZARIfBr/Portfolio?node-id=0-1&t=m0XjMHSt7MaqOO0N-1)
 
 ### 🎉 Party Invitation Landing Page
