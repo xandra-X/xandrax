@@ -1,8 +1,7 @@
-
 <p align="center">
-  <img src="https://github.com/xandra-X/xandrax/blob/main/xan.jpg"
-       width="200" radius= "50%"
-       alt="Xan Drax">
+  <img src="https://raw.githubusercontent.com/xandra-X/xandrax/main/xan.jpg"
+       width="200"
+       style="border-radius:50%;">
 </p>
 <h1 align="center">Hi 👋, I'm Xan Drax</h1>
 <h3 align="center">UI Designer | Full-Stack Developer | AI Automation Service Maker</h3>
