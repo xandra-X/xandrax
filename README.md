@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="https://github.com/xandra-X/xandrax/blob/main/xan.jpg"
-       width="200"
+       width="200" radius= "50%"
        alt="Xan Drax">
 </p>
 <h1 align="center">Hi 👋, I'm Xan Drax</h1>
