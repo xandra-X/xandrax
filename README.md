@@ -1,7 +1,9 @@
-<p align="center">
-  <img src="https://github.com/xandra-X/xandrax/blob/main/xan.jpg" width="180">
-</p>
 
+<p align="center">
+  <img src="https://github.com/xandra-X/xandrax/blob/main/xan.jpg"
+       width="200"
+       alt="Xan Drax">
+</p>
 <h1 align="center">Hi 👋, I'm Xan Drax</h1>
 <h3 align="center">UI Designer | Full-Stack Developer | AI Automation Service Maker</h3>
 
