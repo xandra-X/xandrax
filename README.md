@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xandra-X/xandra-X/main/banner.png" alt="Banner" width="100%">
+  <img src="https://github.com/xandra-X/xandrax/blob/main/xan.jpg" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Xan Drax</h1>
