@@ -83,6 +83,7 @@ A Figma concept focused on modern UI aesthetics, dynamic layouts, and high-end c
 ### 🎉 Party Invitation Landing Page
 A stylish invitation website featuring dynamic animations, responsive design, and an engaging user experience for promoting special events.
 🔗 [Party Invitation](https://partyinvite-1eyo.onrender.com)
+
 ---
 
 ## 📫 Contact Me
